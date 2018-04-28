@@ -42,7 +42,7 @@ def login_required(test):
 
 @app.route('/')
 def home():
-    return render_template('main.html')
+    return render_template('animationsAlongLines.html')
 
 
 @app.route('/princeton')
