@@ -11,6 +11,11 @@
     "type": "git",
     "url": "git+https://github.com/yashpatel5400/manhattan.git"
   },
+  "dependencies": {
+    "connect": "^3.6.6",
+    "serve-static": "^1.13.2",
+    "d3": "^3.5.2"
+  },
   "author": "Yash Patel",
   "license": "ISC",
   "bugs": {
