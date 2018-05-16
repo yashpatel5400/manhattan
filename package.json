@@ -1,0 +1,20 @@
+{
+  "name": "manhattan",
+  "version": "1.0.0",
+  "description": "Manhattan Project in Princeton",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yashpatel5400/manhattan.git"
+  },
+  "author": "Yash Patel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yashpatel5400/manhattan/issues"
+  },
+  "homepage": "https://github.com/yashpatel5400/manhattan#readme"
+}
