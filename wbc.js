@@ -1,5 +1,5 @@
 wbc = [
-    {"total": 0},
+    {"total": 224},
     [
         {"id": "ABW", "iso2Code": "AW", "name": "Aruba", "region": {"id": "LCN", "value": "Latin America & Caribbean (all income levels)"}, "adminregion": {"id": "", "value": ""}, "incomeLevel": {"id": "NOC", "value": "High income: nonOECD"}, "lendingType": {"id": "LNX", "value": "Not classified"}, "capitalCity": "Oranjestad", "longitude": "-70.0167", "latitude": "12.5167"},
         {"id": "AFG", "iso2Code": "AF", "name": "Afghanistan", "region": {"id": "SAS", "value": "South Asia"}, "adminregion": {"id": "SAS", "value": "South Asia"}, "incomeLevel": {"id": "LIC", "value": "Low income"}, "lendingType": {"id": "IDX", "value": "IDA"}, "capitalCity": "Kabul", "longitude": "69.1761", "latitude": "34.5228"},
@@ -215,15 +215,12 @@ wbc = [
         {"id": "ZAF", "iso2Code": "ZA", "name": "South Africa", "region": {"id": "SSF", "value": "Sub-Saharan Africa (all income levels)"}, "adminregion": {"id": "SSA", "value": "Sub-Saharan Africa (developing only)"}, "incomeLevel": {"id": "UMC", "value": "Upper middle income"}, "lendingType": {"id": "IBD", "value": "IBRD"}, "capitalCity": "Pretoria", "longitude": "28.1871", "latitude": "-25.746"},
         {"id": "ZMB", "iso2Code": "ZM", "name": "Zambia", "region": {"id": "SSF", "value": "Sub-Saharan Africa (all income levels)"}, "adminregion": {"id": "SSA", "value": "Sub-Saharan Africa (developing only)"}, "incomeLevel": {"id": "LMC", "value": "Lower middle income"}, "lendingType": {"id": "IDX", "value": "IDA"}, "capitalCity": "Lusaka", "longitude": "28.2937", "latitude": "-15.3982"},
         {"id": "ZWE", "iso2Code": "ZW", "name": "Zimbabwe", "region": {"id": "SSF", "value": "Sub-Saharan Africa (all income levels)"}, "adminregion": {"id": "SSA", "value": "Sub-Saharan Africa (developing only)"}, "incomeLevel": {"id": "LIC", "value": "Low income"}, "lendingType": {"id": "IDB", "value": "Blend"}, "capitalCity": "Harare", "longitude": "31.0672", "latitude": "-17.8312"},
-        
-        // start of Manhattan Project location
-
         {"id": "NYC", "iso2Code": "NYC", "name": "NYC", "latitude": "40.7128", "longitude": "-74.0060"},
         {"id": "Boston", "iso2Code": "Boston", "name": "Boston", "latitude": "42.3601", "longitude": "-71.0589"},
         {"id": "England", "iso2Code": "England", "name": "England", "latitude": "51.5074", "longitude": "-0.1278"},
         {"id": "Gottingen", "iso2Code": "Gottingen", "name": "Gottingen", "latitude": "51.5413", "longitude": "9.9158"},
         {"id": "Berkeley", "iso2Code": "Berkeley", "name": "Berkeley", "latitude": "37.8716", "longitude": "-122.2727"},
-        {"id": "Stanford", "iso2Code": "Ithica", "name": "Ithica", "latitude": "37.4241", "longitude": "-122.1661"},
+        {"id": "Stanford", "iso2Code": "Stanford", "name": "Stanford", "latitude": "37.4241", "longitude": "-122.1661"},
         {"id": "Minnesota", "iso2Code": "Minnesota", "name": "Minnesota", "latitude": "46.7296", "longitude": "-94.6859"},
         {"id": "Ithica", "iso2Code": "Ithica", "name": "Ithica", "latitude": "42.4440", "longitude": "-76.5019"},
         {"id": "Princeton", "iso2Code": "Princeton", "name": "Princeton", "latitude": "40.3573", "longitude": "-74.6672"},
