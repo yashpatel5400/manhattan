@@ -343,7 +343,7 @@ var setting = {
     , rateOpacity : .5 // rate of decrease of opacity
     , rateFlash : 2.5 // rate of decrease of flash
     , sizeChild : 2 // size of child
-    , sizeParent : 5 // size of parent
+    , sizeParent : 0 // size of parent
     , showPaddingCircle : false // show circle of padding
     , useImage : true // show base's image
     , showChild : true // show a child
@@ -764,11 +764,15 @@ var ONE_SECOND = 1000,
             }
         }
 
+        var size;
+        if (type == typeNode.child) size = 50;
+        else size = type != typeNode.child ? type == typeNode.parent ? setting.sizeParent : 50 : d.size || 2;
+
         return {
             x : x,
             y : y,
             id : type + (type == typeNode.child ? _childKey(d) : type == typeNode.region ? d : _parentKey(d)),
-            size : type != typeNode.child ? type == typeNode.parent ? setting.sizeParent : 50 : d.size || 2,
+            size : size,
             weight : type != typeNode.child ? 24 : d.size || 2,
             fixed : true,
             visible : type == typeNode.region,
@@ -1591,17 +1595,16 @@ var ONE_SECOND = 1000,
             }
             else {
                 res = [
-                    "Contract: <b>",
-                    d.nodeValue.contract.desc,
-                    "</b><br/>Date: <b>",
+                    "From: <b>",
+                    d.nodeValue["Supplier Country"],
+                    "</b><br/> To: <b>",
+                    d.nodeValue["Borrower Country"],
+                    "</b><br/> Date: <b>",
                     shortTimeFormat(d.nodeValue.contract.date),
                     d.nodeValue.project.name,
-                    "</b><br/>Description: <b",
-                    cat == "Major Sector" ? ' style="text-shadow: 0 0 2px rgba(0, 0, 0, .8);color:' + extColor(d.nodeValue[cat]) + '"' : "",
-                    ">",
-                    d.nodeValue.procurement.category,
-
-                    "<br/>Audio: <b>",
+                    "</b><br/>Description: <b>",
+                    d.nodeValue.contract.desc,
+                    "</b><br/>Audio: <b>",
                     `<input type="button" value="PLAY" onclick="play('${d.nodeValue.Audio}')">`
                 ];
             }
