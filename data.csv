@@ -1,27 +1,27 @@
-Contract Signing Date,Major Sector,Region,Supplier Country,Borrower Country,Contract Description,Total Contract Amount (USD)
-1/1/1920 0:00,Robert J. Oppenheimer,,NYC,Boston,Attending Harvard (undergrad),"$100,000.00 "
-2/1/1920 0:00,Robert J. Oppenheimer,,Boston,England,Grad school under JJ Thomson,"$100,000.00 "
-3/1/1920 0:00,Robert J. Oppenheimer,,England,Gottingen,Study theoretical physics under Max Born at the Institute for Theoretical Physics at the University of Göttingen in German,"$100,000.00 "
-4/1/1920 0:00,Robert J. Oppenheimer,,Gottingen,Berkeley,Taught theoretical physics at Berkeley and California Insitute of Technology,"$100,000.00 "
-5/1/1920 0:00,Robert J. Oppenheimer,,Berkeley,Stanford,Recruiting scientists for the Manhattan Project,"$100,000.00 "
-6/1/1920 0:00,Robert J. Oppenheimer,,Stanford,Minnesota,Recruiting scientists for the Manhattan Project,"$100,000.00 "
-7/1/1920 0:00,Robert J. Oppenheimer,,Minnesota,Ithica,Recruiting scientists for the Manhattan Project,"$100,000.00 "
-8/1/1920 0:00,Robert J. Oppenheimer,,Ithica,Princeton,Recruiting scientists for the Manhattan Project,"$100,000.00 "
-9/1/1920 0:00,Robert J. Oppenheimer,,Princeton,Los Alamos,Headed the laboratory at Los Alamos,"$100,000.00 "
-10/1/1920 0:00,Robert J. Oppenheimer,,Los Alamos,Princeton,Continued researching at the Institute for Advanced Study,"$100,000.00 "
-11/1/1920 0:00,Robert J. Oppenheimer,,Princeton,Los Alamos,Headed the laboratory at Los Alamos,"$100,000.00 "
-12/1/1920 0:00,Robert J. Oppenheimer,,Los Alamos,Princeton,Continued researching at the Institute for Advanced Study,"$100,000.00 "
-1/1/1921 0:00,Robert J. Oppenheimer,,Princeton,Los Alamos,Headed the laboratory at Los Alamos,"$100,000.00 "
-2/1/1921 0:00,Robert J. Oppenheimer,,Los Alamos,Princeton,Continued researching at the Institute for Advanced Study,"$100,000.00 "
-3/1/1921 0:00,Robert J. Oppenheimer,,Princeton,Los Alamos,Headed the laboratory at Los Alamos,"$100,000.00 "
-4/1/1921 0:00,Robert J. Oppenheimer,,Los Alamos,Princeton,Continued researching at the Institute for Advanced Study,"$100,000.00 "
-5/1/1921 0:00,Robert J. Oppenheimer,,Princeton,Los Alamos,Headed the laboratory at Los Alamos,"$100,000.00 "
-6/1/1921 0:00,Robert J. Oppenheimer,,Los Alamos,Princeton,Continued researching at the Institute for Advanced Study,"$100,000.00 "
-7/1/1921 0:00,Robert J. Oppenheimer,,Princeton,Los Alamos,Headed the laboratory at Los Alamos,"$100,000.00 "
-8/1/1921 0:00,Robert J. Oppenheimer,,Los Alamos,Princeton,Continued researching at the Institute for Advanced Study,"$100,000.00 "
-9/1/1921 0:00,Robert J. Oppenheimer,,Berkeley,Stanford,Recruiting scientists for the Manhattan Project,"$100,000.00 "
-10/1/1921 0:00,Robert J. Oppenheimer,,Stanford,Minnesota,Recruiting scientists for the Manhattan Project,"$100,000.00 "
-11/1/1921 0:00,Robert J. Oppenheimer,,Minnesota,Ithica,Recruiting scientists for the Manhattan Project,"$100,000.00 "
-12/1/1921 0:00,Robert J. Oppenheimer,,Ithica,Princeton,Recruiting scientists for the Manhattan Project,"$100,000.00 "
-1/1/1922 0:00,Robert J. Oppenheimer,,Princeton,Los Alamos,Headed the laboratory at Los Alamos,"$100,000.00 "
-2/1/1922 0:00,Robert J. Oppenheimer,,Los Alamos,Princeton,Continued researching at the Institute for Advanced Study,"$100,000.00 "
+Contract Signing Date,Major Sector,Region,Supplier Country,Borrower Country,Contract Description,Total Contract Amount (USD),Audio
+1/1/1920 0:00,Robert J. Oppenheimer,,NYC,Boston,Attending Harvard (undergrad),"$100,000.00 ",jazz
+2/1/1920 0:00,Robert J. Oppenheimer,,Boston,England,Grad school under JJ Thomson,"$100,000.00 ",uke
+3/1/1920 0:00,Robert J. Oppenheimer,,England,Gottingen,Study theoretical physics under Max Born at the Institute for Theoretical Physics at the University of Göttingen in German,"$100,000.00 ",jazz
+4/1/1920 0:00,Robert J. Oppenheimer,,Gottingen,Berkeley,Taught theoretical physics at Berkeley and California Insitute of Technology,"$100,000.00 ",uke
+5/1/1920 0:00,Robert J. Oppenheimer,,Berkeley,Stanford,Recruiting scientists for the Manhattan Project,"$100,000.00 ",jazz
+6/1/1920 0:00,Robert J. Oppenheimer,,Stanford,Minnesota,Recruiting scientists for the Manhattan Project,"$100,000.00 ",uke
+7/1/1920 0:00,Robert J. Oppenheimer,,Minnesota,Ithica,Recruiting scientists for the Manhattan Project,"$100,000.00 ",jazz
+8/1/1920 0:00,Robert J. Oppenheimer,,Ithica,Princeton,Recruiting scientists for the Manhattan Project,"$100,000.00 ",uke
+9/1/1920 0:00,Robert J. Oppenheimer,,Princeton,Los Alamos,Headed the laboratory at Los Alamos,"$100,000.00 ",jazz
+10/1/1920 0:00,Robert J. Oppenheimer,,Los Alamos,Princeton,Continued researching at the Institute for Advanced Study,"$100,000.00 ",uke
+11/1/1920 0:00,Robert J. Oppenheimer,,Princeton,Los Alamos,Headed the laboratory at Los Alamos,"$100,000.00 ",jazz
+12/1/1920 0:00,Robert J. Oppenheimer,,Los Alamos,Princeton,Continued researching at the Institute for Advanced Study,"$100,000.00 ",uke
+1/1/1921 0:00,Robert J. Oppenheimer,,Princeton,Los Alamos,Headed the laboratory at Los Alamos,"$100,000.00 ",jazz
+2/1/1921 0:00,Robert J. Oppenheimer,,Los Alamos,Princeton,Continued researching at the Institute for Advanced Study,"$100,000.00 ",uke
+3/1/1921 0:00,Robert J. Oppenheimer,,Princeton,Los Alamos,Headed the laboratory at Los Alamos,"$100,000.00 ",jazz
+4/1/1921 0:00,Robert J. Oppenheimer,,Los Alamos,Princeton,Continued researching at the Institute for Advanced Study,"$100,000.00 ",uke
+5/1/1921 0:00,Robert J. Oppenheimer,,Princeton,Los Alamos,Headed the laboratory at Los Alamos,"$100,000.00 ",jazz
+6/1/1921 0:00,Robert J. Oppenheimer,,Los Alamos,Princeton,Continued researching at the Institute for Advanced Study,"$100,000.00 ",uke
+7/1/1921 0:00,Robert J. Oppenheimer,,Princeton,Los Alamos,Headed the laboratory at Los Alamos,"$100,000.00 ",jazz
+8/1/1921 0:00,Robert J. Oppenheimer,,Los Alamos,Princeton,Continued researching at the Institute for Advanced Study,"$100,000.00 ",uke
+9/1/1921 0:00,Robert J. Oppenheimer,,Berkeley,Stanford,Recruiting scientists for the Manhattan Project,"$100,000.00 ",jazz
+10/1/1921 0:00,Robert J. Oppenheimer,,Stanford,Minnesota,Recruiting scientists for the Manhattan Project,"$100,000.00 ",uke
+11/1/1921 0:00,Robert J. Oppenheimer,,Minnesota,Ithica,Recruiting scientists for the Manhattan Project,"$100,000.00 ",jazz
+12/1/1921 0:00,Robert J. Oppenheimer,,Ithica,Princeton,Recruiting scientists for the Manhattan Project,"$100,000.00 ",uke
+1/1/1922 0:00,Robert J. Oppenheimer,,Princeton,Los Alamos,Headed the laboratory at Los Alamos,"$100,000.00 ",jazz
+2/1/1922 0:00,Robert J. Oppenheimer,,Los Alamos,Princeton,Continued researching at the Institute for Advanced Study,"$100,000.00 ",uke
