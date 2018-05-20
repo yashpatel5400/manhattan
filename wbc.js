@@ -227,12 +227,18 @@ wbc = [
         {"id": "Cambridge", "iso2Code": "Cambridge", "name": "Cambridge", "latitude": "52.2053", "longitude": "0.1218"},
         {"id": "Chicago", "iso2Code": "Chicago", "name": "Chicago", "latitude": "41.8781", "longitude": "-87.6298"},
         {"id": "Clinton", "iso2Code": "Clinton", "name": "Clinton", "latitude": "43.0484", "longitude": "-75.3785"},
+        {"id": "Copenhagen", "iso2Code": "Copenhagen", "name": "Copenhagen", "latitude": "55.6761", "longitude": "12.5683"},
         {"id": "England", "iso2Code": "England", "name": "England", "latitude": "51.5074", "longitude": "-0.1278"},
         {"id": "Frontier", "iso2Code": "Frontier", "name": "Frontier", "latitude": "41.8141", "longitude": "-110.5371"},
+        {"id": "Geneva", "iso2Code": "Geneva", "name": "Geneva", "latitude": "46.2044", "longitude": "6.1432"},
         {"id": "Gottingen", "iso2Code": "Gottingen", "name": "Gottingen", "latitude": "51.5413", "longitude": "9.9158"},
+        {"id": "Hungary", "iso2Code": "Hungary", "name": "Hungary", "latitude": "47.1625", "longitude": "19.5033"},
         {"id": "Ithica", "iso2Code": "Ithica", "name": "Ithica", "latitude": "42.4440", "longitude": "-76.5019"},
+        {"id": "Lancashire", "iso2Code": "Lancashire", "name": "Lancashire", "latitude": "53.7632", "longitude": "-2.7044"},
+        {"id": "Liverpool", "iso2Code": "Liverpool", "name": "Liverpool", "latitude": "53.4084", "longitude": "-2.9916"},
         {"id": "Los Alamos", "iso2Code": "Los Alamos", "name": "Los Alamos", "latitude": "35.8800", "longitude": "-106.3031"},
         {"id": "Los Angeles", "iso2Code": "Los Angeles", "name": "Los Angeles", "latitude": "34.0522", "longitude": "-118.2437"},
+        {"id": "Manchester", "iso2Code": "Manchester", "name": "Manchester", "latitude": "53.4808", "longitude": "-2.2426"},
         {"id": "Minnesota", "iso2Code": "Minnesota", "name": "Minnesota", "latitude": "46.7296", "longitude": "-94.6859"},
         {"id": "Munich", "iso2Code": "Munich", "name": "Munich", "latitude": "48.1351", "longitude": "11.5820"},
         {"id": "New Mexico", "iso2Code": "New Mexico", "name": "New Mexico", "latitude": "34.5199", "longitude": "-105.8701"},
@@ -241,7 +247,9 @@ wbc = [
         {"id": "Pasadena", "iso2Code": "Pasadena", "name": "Pasadena", "latitude": "34.1478", "longitude": "-118.1445"},
         {"id": "Princeton", "iso2Code": "Princeton", "name": "Princeton", "latitude": "40.3573", "longitude": "-74.6672"},
         {"id": "Stanford", "iso2Code": "Stanford", "name": "Stanford", "latitude": "37.4241", "longitude": "-122.1661"},
+        {"id": "Sweden", "iso2Code": "Sweden", "name": "Sweden", "latitude": "60.1282", "longitude": "18.6435"},
         {"id": "Ulm", "iso2Code": "Ulm", "name": "Ulm", "latitude": "48.4011", "longitude": "9.9876"},
+        {"id": "Washington DC", "iso2Code": "Washington DC", "name": "Washington DC", "latitude": "38.9072", "longitude": "-77.0369"},
         {"id": "Zurich", "iso2Code": "Zurich", "name": "Zurich", "latitude": "47.3769", "longitude": "8.5417"}
     ]
 ];
