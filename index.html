@@ -13,9 +13,15 @@
 <script charset="utf-8" src="https://rawgithub.com/artzub/dbsv/master/tooltip.js"></script>
 <script charset="utf-8" src="wbc.js"></script>
 <script>
-    function play(audioID) {
+    function audioPlay(audioID) {
        var audio = document.getElementById(audioID);
        audio.play();
+    }
+
+    function audioStop(audioID) {
+        var audio = document.getElementById(audioID);
+        audio.pause();
+        audio.currentTime = 0;
     }
 </script>
 
@@ -1573,13 +1579,14 @@ var ONE_SECOND = 1000,
     }
 
     var tooltip;
+    var currentAudio = "";
 
     function showToolTip(d) {
         var res;
         if (!d) {
             tooltip.style("display", "none");
-            document.body.removeEventListener('click', function() { 
-                play(""); 
+            document.body.addEventListener('mousedown', function(ev) { 
+                audioStop(currentAudio); 
             }); 
             return;
         }
@@ -1606,8 +1613,10 @@ var ONE_SECOND = 1000,
                     d.nodeValue.contract.desc
                 ];
 
-                document.body.addEventListener('click', function() { 
-                    play(d.nodeValue.Audio); 
+                document.body.addEventListener('mousedown', function(ev) { 
+                    if (currentAudio != "") audioStop(currentAudio);
+                    currentAudio = d.nodeValue.Audio;
+                    audioPlay(currentAudio); 
                 }); 
             }
 
