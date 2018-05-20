@@ -215,8 +215,8 @@
     }
 </style>
 
-<audio id="jazz" src="audio/jazz.mp3" ></audio>
-<audio id="uke" src="audio/uke.mp3" ></audio>
+<audio id="cemetary" src="audio/cemetary.mp4" ></audio>
+<audio id="wigner"   src="audio/wigner.mp4" ></audio>
 
 <div id="menu">
     <ul>
@@ -267,19 +267,16 @@
                 <li style="background: rgba(0, 0, 0, .1); border: 1px dotted rgba(0, 0, 0, .3)">
                     <strong>What's going on</strong>
                     <ol style="color: #d9d9d9;">
-                        <li>• Each luminous particle is a contract. It moves from supplier to borrower.</li>
-                        <li>• The size of particle depends of contract amount.</li>
-                        <li>• Each node of country gathers contracts which it borrowed.</li>
+                        <li>• Each luminous particle is an important scientist/researcher. It shows their <br/> movement across countries and/or research facilities over the Manhattan Project.</li>
+                        <li>• Clicking any of path endpoints will initiate audio associated with that scientist's path.</li>
                         <li>• Every second is a day.</li>
-                        <li>• The histogram shows the number of contracts per day, separated by a selected criterion.</li>
-                        <li>• The legend shows the number of contracts for all time separated by a selected criterion.</li>
+                        <li>• The histogram shows the number of movements made by a particular scientist.</li>
                     </ol>
                 </li>
                 <li style="background: rgba(0, 0, 0, .2); border: 1px dotted rgba(0, 0, 0, .6)">
                     <strong>How to use:</strong>
                     <ol style="color: #d9d9d9;">
                         <li>• Uses buttons for controlling process visualization.</li>
-                        <li>• Uses select for choosing fiscal year or criteria of colouring.</li>
                         <li>• Uses mouse wheel for zooming.</li>
                         <li>• Uses mouse cursor for showing information about focused node.</li>
                     </ol>
@@ -1581,6 +1578,9 @@ var ONE_SECOND = 1000,
         var res;
         if (!d) {
             tooltip.style("display", "none");
+            document.body.removeEventListener('click', function() { 
+                play(""); 
+            }); 
             return;
         }
         if (tooltip.style("display") == "none") {
@@ -1603,10 +1603,12 @@ var ONE_SECOND = 1000,
                     shortTimeFormat(d.nodeValue.contract.date),
                     d.nodeValue.project.name,
                     "</b><br/>Description: <b>",
-                    d.nodeValue.contract.desc,
-                    "</b><br/>Audio: <b>",
-                    `<input type="button" value="PLAY" onclick="play('${d.nodeValue.Audio}')">`
+                    d.nodeValue.contract.desc
                 ];
+
+                document.body.addEventListener('click', function() { 
+                    play(d.nodeValue.Audio); 
+                }); 
             }
 
             tooltip.html(res.join(''));
@@ -2280,8 +2282,6 @@ var ONE_SECOND = 1000,
     });
 
 })();
-
-
 
 </script>
 
