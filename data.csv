@@ -1,27 +1,60 @@
-Contract Signing Date,Major Sector,Region,Supplier Country,Borrower Country,Contract Description,Total Contract Amount (USD),Audio
-1/1/1920 0:00,Robert J. Oppenheimer,,NYC,Boston,Attending Harvard (undergrad),"$100,000.00 ",cemetary
-2/1/1920 0:00,Robert J. Oppenheimer,,Boston,England,Grad school under JJ Thomson,"$100,000.00 ",wigner
-3/1/1920 0:00,Robert J. Oppenheimer,,England,Gottingen,Study theoretical physics under Max Born at the Institute for Theoretical Physics at the University of Gottingen in German,"$100,000.00 ",cemetary
-4/1/1920 0:00,Robert J. Oppenheimer,,Gottingen,Berkeley,Taught theoretical physics at Berkeley and California Insitute of Technology,"$100,000.00 ",wigner
-5/1/1920 0:00,Robert J. Oppenheimer,,Berkeley,Stanford,Recruiting scientists for the Manhattan Project,"$100,000.00 ",cemetary
-6/1/1920 0:00,Robert J. Oppenheimer,,Stanford,Minnesota,Recruiting scientists for the Manhattan Project,"$100,000.00 ",wigner
-7/1/1920 0:00,Robert J. Oppenheimer,,Minnesota,Ithica,Recruiting scientists for the Manhattan Project,"$100,000.00 ",cemetary
-8/1/1920 0:00,Robert J. Oppenheimer,,Ithica,Princeton,Recruiting scientists for the Manhattan Project,"$100,000.00 ",wigner
-9/1/1920 0:00,Robert J. Oppenheimer,,Princeton,Los Alamos,Headed the laboratory at Los Alamos,"$100,000.00 ",cemetary
-10/1/1920 0:00,Robert J. Oppenheimer,,Los Alamos,Princeton,Continued researching at the Institute for Advanced Study,"$100,000.00 ",wigner
-11/1/1920 0:00,Robert J. Oppenheimer,,Princeton,Los Alamos,Headed the laboratory at Los Alamos,"$100,000.00 ",cemetary
-12/1/1920 0:00,Robert J. Oppenheimer,,Los Alamos,Princeton,Continued researching at the Institute for Advanced Study,"$100,000.00 ",wigner
-1/1/1921 0:00,Robert J. Oppenheimer,,Princeton,Los Alamos,Headed the laboratory at Los Alamos,"$100,000.00 ",cemetary
-2/1/1921 0:00,Robert J. Oppenheimer,,Los Alamos,Princeton,Continued researching at the Institute for Advanced Study,"$100,000.00 ",wigner
-3/1/1921 0:00,Robert J. Oppenheimer,,Princeton,Los Alamos,Headed the laboratory at Los Alamos,"$100,000.00 ",cemetary
-4/1/1921 0:00,Robert J. Oppenheimer,,Los Alamos,Princeton,Continued researching at the Institute for Advanced Study,"$100,000.00 ",wigner
-5/1/1921 0:00,Robert J. Oppenheimer,,Princeton,Los Alamos,Headed the laboratory at Los Alamos,"$100,000.00 ",cemetary
-6/1/1921 0:00,Robert J. Oppenheimer,,Los Alamos,Princeton,Continued researching at the Institute for Advanced Study,"$100,000.00 ",wigner
-7/1/1921 0:00,Robert J. Oppenheimer,,Princeton,Los Alamos,Headed the laboratory at Los Alamos,"$100,000.00 ",cemetary
-8/1/1921 0:00,Robert J. Oppenheimer,,Los Alamos,Princeton,Continued researching at the Institute for Advanced Study,"$100,000.00 ",wigner
-9/1/1921 0:00,Robert J. Oppenheimer,,Berkeley,Stanford,Recruiting scientists for the Manhattan Project,"$100,000.00 ",cemetary
-10/1/1921 0:00,Robert J. Oppenheimer,,Stanford,Minnesota,Recruiting scientists for the Manhattan Project,"$100,000.00 ",wigner
-11/1/1921 0:00,Robert J. Oppenheimer,,Minnesota,Ithica,Recruiting scientists for the Manhattan Project,"$100,000.00 ",cemetary
-12/1/1921 0:00,Robert J. Oppenheimer,,Ithica,Princeton,Recruiting scientists for the Manhattan Project,"$100,000.00 ",wigner
-1/1/1922 0:00,Robert J. Oppenheimer,,Princeton,Los Alamos,Headed the laboratory at Los Alamos,"$100,000.00 ",cemetary
-2/1/1922 0:00,Robert J. Oppenheimer,,Los Alamos,Princeton,Continued researching at the Institute for Advanced Study,"$100,000.00 ",wigner
+Contract Signing Date,Date,Major Sector,From,To,Contract Description,Total Contract Amount (USD),Audio,Source,Region
+1/1/1898  12:00:00 AM,1/1/1901 0:00,Albert Einstein,Zurich,Bern,Received his diploma and accepted a position as technical assistant in the Swiss Patent Office,"$100,000.00 ",,https://www.atomicheritage.org/profile/albert-einstein,
+2/1/1898  12:00:00 AM,3/2/1902 0:00,Edward Condon,Alamogordo,Alamogordo,"Born in Alamogordo, NM","$100,000.00 ",,https://www.atomicheritage.org/profile/edward-condon,
+3/1/1898  12:00:00 AM,11/17/1902 0:00,Eugene Wigner,Budapest,Budapest,"Born in Budapest, Hungary","$100,000.00 ",,https://www.atomicheritage.org/profile/eugene-wigner,
+6/1/1898  12:00:00 AM,4/22/1904 0:00,Robert J. Oppenheimer,NYC,NYC,"Born in New York, New York","$100,000.00 ",,https://www.atomicheritage.org/profile/j-robert-oppenheimer,
+5/1/1898  12:00:00 AM,1/1/1905 0:00,Albert Einstein,Zurich,Zurich,Einstein's annus mirabilis (miracle year): published four groundbreaking papers,"$100,000.00 ",,https://www.atomicheritage.org/profile/albert-einstein,
+8/1/1898  12:00:00 AM,1/1/1905 0:00,Albert Einstein,Bern,Zurich,Received his PhD from the University of Zurich,"$100,000.00 ",,https://www.atomicheritage.org/profile/albert-einstein,
+6/1/1898  12:00:00 AM,1/1/1914 0:00,Albert Einstein,Zurich,Munich,Directed the Kaiser Wilhelm Institute for Physics in Germany until 1932,"$100,000.00 ",,https://www.atomicheritage.org/profile/albert-einstein,
+7/1/1898  12:00:00 AM,5/4/1914 0:00,Robert R. Wilson,Frontier,Frontier,"Born in Frontier, Wyoming","$100,000.00 ",,https://www.atomicheritage.org/profile/robert-r-wilson-1,
+6/1/1898  12:00:00 AM,1/1/1917 0:00,"Henry ""Harry"" Smyth",Clinton,Princeton,Attending Princeton (M.S. and Ph.D.),"$100,000.00 ",,https://www.atomicheritage.org/profile/henry-dewolf-smyth,
+5/1/1898  12:00:00 AM,5/11/1918 0:00,Richard Feynman,NYC,NYC,Born in New York City,"$100,000.00 ",,https://www.atomicheritage.org/profile/richard-feynman,
+7/1/1898  12:00:00 AM,1/1/1922 0:00,"Henry ""Harry"" Smyth",Princeton,Cambridge,Earned a second Ph.D. in Physics from the University of Cambridge studying under Ernest Rutherford,"$100,000.00 ",,https://www.atomicheritage.org/profile/henry-dewolf-smyth,
+7/1/1898  12:00:00 AM,1/1/1922 0:00,Robert J. Oppenheimer,NYC,New Mexico,"After being bedridden with dysentery, spent the summer in New Mexico to recuperate","$100,000.00 ",,https://www.atomicheritage.org/profile/j-robert-oppenheimer,
+8/1/1898  12:00:00 AM,1/1/1922 0:00,Robert J. Oppenheimer,New Mexico,Boston,Enrolled at Harvard University,"$100,000.00 ",,https://www.atomicheritage.org/profile/j-robert-oppenheimer,
+8/1/1898  12:00:00 AM,1/1/1924 0:00,"Henry ""Harry"" Smyth",Cambridge,Princeton,Earned tenure as a physics professor at Princeton University studying the cyclotron,"$100,000.00 ",,https://www.atomicheritage.org/profile/henry-dewolf-smyth,
+5/1/1898  12:00:00 AM,1/1/1925 0:00,Robert J. Oppenheimer,Boston,Cambridge,"Began graduate work in physics at Cavendish Laboratory in Cambridge, England under J J Thomson","$100,000.00 ",,https://www.atomicheritage.org/profile/j-robert-oppenheimer,
+6/1/1898  12:00:00 AM,1/1/1925 0:00,Eugene Wigner,Budapest,Berlin,Received PhD in Chemical Engineering from Technische Hochschule in Berlin,"$100,000.00 ",,https://www.atomicheritage.org/profile/eugene-wigner,
+6/1/1898  12:00:00 AM,1/1/1926 0:00,Robert J. Oppenheimer,Cambridge,Gottingen,Moved from Cavendish Laboratory to the University of Gottingen to finish his graduate studies under Max Born,"$100,000.00 ",,https://www.atomicheritage.org/profile/j-robert-oppenheimer,
+7/1/1898  12:00:00 AM,1/1/1926 0:00,Edward Condon,Alamogordo,Berkeley,"Received PhD from the University of California, Berkeley","$100,000.00 ",,https://www.atomicheritage.org/profile/edward-condon,
+7/1/1898  12:00:00 AM,1/1/1927 0:00,Robert J. Oppenheimer,Gottingen,Berkeley,"Joined the faculty at the University of California, Berkeley, and Caltech","$100,000.00 ",,https://www.atomicheritage.org/profile/j-robert-oppenheimer,
+8/1/1898  12:00:00 AM,1/1/1928 0:00,Edward Condon,Berkeley,Princeton,Held a physics professorship at Princeton University until 1937,"$100,000.00 ",,https://www.atomicheritage.org/profile/edward-condon,
+7/1/1898  12:00:00 AM,1/1/1933 0:00,Albert Einstein,Munich,Princeton,"Worked at the Institute for Advanced Study at Princeton, New Jersey until 1955","$100,000.00 ",,https://www.atomicheritage.org/profile/albert-einstein,
+8/1/1898  12:00:00 AM,1/1/1936 0:00,Robert R. Wilson,Frontier,Berkeley,"Received BA/Ph.D. in Physics from the University of California, Berkeley","$100,000.00 ",,https://www.atomicheritage.org/profile/robert-r-wilson-2,
+6/1/1898  12:00:00 AM,1/1/1939 0:00,Richard Feynman,NYC,Boston,Received BS from MIT and was named a Putnam Fellow,"$100,000.00 ",,https://www.atomicheritage.org/profile/richard-feynman,
+8/1/1898  12:00:00 AM,1/1/1939 0:00,Albert Einstein,Princeton,Princeton,Wrote letter to President Roosevelt warning of German nuclear weapon goals and recommending that the US become involved in ,"$100,000.00 ",,https://www.atomicheritage.org/profile/albert-einstein,
+7/1/1898  12:00:00 AM,8/2/1939 0:00,Eugene Wigner,Berlin,Princeton,"Collaborated with Szilard, Edward Teller, and Einstein on the Einstein-Szilárd letter","$100,000.00 ",,https://www.atomicheritage.org/profile/eugene-wigner,
+7/1/1898  12:00:00 AM,1/1/1942 0:00,Richard Feynman,Boston,Princeton,Received his PhD from Princeton University,"$100,000.00 ",,https://www.atomicheritage.org/profile/richard-feynman,
+8/1/1898  12:00:00 AM,1/1/1942 0:00,Richard Feynman,Princeton,Los Alamos,Worked on the Manhattan Project at Los Alamos and Oak Ridge until 1945,"$100,000.00 ",,https://www.atomicheritage.org/profile/richard-feynman,
+8/1/1898  12:00:00 AM,1/1/1942 0:00,Eugene Wigner,Princeton,Oak Ridge,Joined the Manhattan Project and helped design the production nuclear reactors plutonium until 1945,"$100,000.00 ",,https://www.atomicheritage.org/profile/eugene-wigner,
+8/1/1898  12:00:00 AM,6/1/1942 0:00,Robert J. Oppenheimer,Berkeley,Chicago,Joined the Chicago Met Lab to lead an effort on fast neutron physics,"$100,000.00 ",,https://www.atomicheritage.org/profile/j-robert-oppenheimer,
+5/1/1898  12:00:00 AM,10/15/1942 0:00,Robert J. Oppenheimer,Chicago,Chicago,"Asked to head Project Y, planned to be the new central laboratory for weapon physics research and design","$100,000.00 ",,https://www.atomicheritage.org/profile/j-robert-oppenheimer,
+6/1/1898  12:00:00 AM,11/16/1942 0:00,Robert J. Oppenheimer,Chicago,Los Alamos,"General Groves and Oppenheimer visit the Los Alamos, NM mesa in New Mexico and select it for ""Site Y""","$100,000.00 ",,https://www.atomicheritage.org/profile/j-robert-oppenheimer,
+7/1/1898  12:00:00 AM,12/1/1942 0:00,Robert J. Oppenheimer,Los Alamos,Ithica,Recruiting scientists/researchers,"$100,000.00 ",,https://www.atomicheritage.org/profile/j-robert-oppenheimer,
+8/1/1898  12:00:00 AM,12/16/1942 0:00,Robert J. Oppenheimer,Ithica,Princeton,Recruiting scientists/researchers,"$100,000.00 ",,https://www.atomicheritage.org/profile/j-robert-oppenheimer,
+5/1/1898  12:00:00 AM,1/1/1943 0:00,Robert J. Oppenheimer,Princeton,Los Alamos,Director of the Los Alamos Laboratory until 1945,"$100,000.00 ",,https://www.atomicheritage.org/profile/j-robert-oppenheimer,
+5/1/1898  12:00:00 AM,1/1/1943 0:00,Edward Condon,Princeton,Los Alamos,Recruited to Los Alamos to be Assistant Director of the Manhattan Project,"$100,000.00 ",,https://www.atomicheritage.org/profile/edward-condon,
+6/1/1898  12:00:00 AM,1/1/1943 0:00,Edward Condon,Los Alamos,Berkeley,"Consulted on separation of uranium at the University of California, Berkeley until 1945","$100,000.00 ",,https://www.atomicheritage.org/profile/edward-condon,
+5/1/1898  12:00:00 AM,8/1/1944 0:00,Robert R. Wilson,Berkeley,Los Alamos,Appointed head of the Research Division at Los Alamos,"$100,000.00 ",,https://www.atomicheritage.org/profile/robert-r-wilson-4,
+5/1/1898  12:00:00 AM,1/1/1945 0:00,"Henry ""Harry"" Smyth",Princeton,Princeton,"Published ""Atomic Energy for Military Purposes,"" which became known as the Smyth Report","$100,000.00 ",,https://www.atomicheritage.org/profile/henry-dewolf-smyth,
+5/1/1898  12:00:00 AM,1/1/1945 0:00,Richard Feynman,Los Alamos,Ithica,Went to Cornell University where he joined the physics department and taught theoretical physics until 1950,"$100,000.00 ",,https://www.atomicheritage.org/profile/richard-feynman,
+6/1/1898  12:00:00 AM,5/1/1945 0:00,Robert R. Wilson,Los Alamos,Los Alamos,"Organized Association of Los Alamos Scientists (ALAS), which called for the international control of atomic energy","$100,000.00 ",,https://www.atomicheritage.org/profile/robert-r-wilson-5,
+6/1/1898  12:00:00 AM,6/16/1945 0:00,Robert J. Oppenheimer,Los Alamos,Los Alamos,"To his immense relief, witnessed the successful Trinity test","$100,000.00 ",,https://www.atomicheritage.org/profile/j-robert-oppenheimer,
+7/1/1898  12:00:00 AM,10/16/1945 0:00,Robert J. Oppenheimer,Los Alamos,Pasadena,"Resigns as director of Los Alamos Laboratory, accepting a post at CalTech","$100,000.00 ",,https://www.atomicheritage.org/profile/j-robert-oppenheimer,
+8/1/1898  12:00:00 AM,1/1/1947 0:00,Robert J. Oppenheimer,Pasadena,Princeton,"Became director of the Institute for Advanced Study in Princeton, New Jersey","$100,000.00 ",,https://www.atomicheritage.org/profile/j-robert-oppenheimer,
+6/1/1898  12:00:00 AM,1/1/1950 0:00,Richard Feynman,Ithica,Pasadena,Joined the faculty in the physics department at Caltech,"$100,000.00 ",,https://www.atomicheritage.org/profile/richard-feynman,
+6/1/1898  12:00:00 AM,1/1/1953 0:00,"Henry ""Harry"" Smyth",Princeton,Princeton,"Appointed principal advisor to President Eisenhower in preparation for Ike's ""Atoms for Peace"" speech","$100,000.00 ",,https://www.atomicheritage.org/profile/henry-dewolf-smyth,
+5/1/1898  12:00:00 AM,6/29/1954 0:00,Robert J. Oppenheimer,Princeton,Princeton,Oppenheimer's security clearance was revoked by the US Atomic Energy Commission,"$100,000.00 ",,https://www.atomicheritage.org/profile/j-robert-oppenheimer,
+5/1/1898  12:00:00 AM,1/1/1955 0:00,Albert Einstein,Princeton,Princeton,"Apr 18th Died in Princeton, New Jersey ","$100,000.00 ",,https://www.atomicheritage.org/profile/albert-einstein,
+5/1/1898  12:00:00 AM,1/1/1963 0:00,Eugene Wigner,Oak Ridge,Oak Ridge,Awarded the Nobel Prize in Physics for his contributions to the theory of the atomic nucleus ,"$100,000.00 ",,https://www.atomicheritage.org/profile/eugene-wigner,
+7/1/1898  12:00:00 AM,1/1/1965 0:00,Richard Feynman,Pasadena,Pasadena,Received the Nobel Prize in Physics for work in quantum electrodynamics,"$100,000.00 ",,https://www.atomicheritage.org/profile/richard-feynman,
+6/1/1898  12:00:00 AM,2/18/1967 0:00,Robert J. Oppenheimer,Princeton,Princeton,"Died in Princeton, New Jersey ","$100,000.00 ",,https://www.atomicheritage.org/profile/robert-r-wilson-0,
+7/1/1898  12:00:00 AM,1/1/1968 0:00,"Henry ""Harry"" Smyth",Princeton,Princeton,Received the Atoms for Peace Award,"$100,000.00 ",,https://www.atomicheritage.org/profile/henry-dewolf-smyth,
+7/1/1898  12:00:00 AM,1/1/1969 0:00,Robert R. Wilson,Los Alamos,Batavia,"Became first director of the Fermilab in Batavia, Illinois until 1978","$100,000.00 ",,https://www.atomicheritage.org/profile/robert-r-wilson-7,
+7/1/1898  12:00:00 AM,3/26/1974 0:00,Edward Condon,Berkeley,Boulder,"Died in Boulder, CO ","$100,000.00 ",,https://www.atomicheritage.org/profile/edward-condon,
+8/1/1898  12:00:00 AM,9/11/1986 0:00,"Henry ""Harry"" Smyth",Princeton,Princeton,"Died in Princeton, New Jersey","$100,000.00 ",,https://www.atomicheritage.org/profile/albert-einstein,
+8/1/1898  12:00:00 AM,2/15/1988 0:00,Richard Feynman,Pasadena,Los Angeles,"Died in Los Angeles, California","$100,000.00 ",,https://www.atomicheritage.org/profile/richard-feynman,
+8/1/1898  12:00:00 AM,1/16/2000 0:00,Robert R. Wilson,Ithica,Ithica,"Died in Ithaca, NY","$100,000.00 ",,https://www.atomicheritage.org/profile/robert-r-wilson-8,
+6/1/1898  12:00:00 AM,1/1/1896  12:00:00 AM,Albert Einstein,Ulm,Zurich,Entered the Swiss Federal Polytechnic School in Zurich to be trained as a teacher in physics and mathematics,"$100,000.00 ",,https://www.atomicheritage.org/profile/albert-einstein,
+5/1/1898  12:00:00 AM,3/14/1879  12:00:00 AM,Albert Einstein,Ulm,Ulm,Born at Ulm in Germany,"$100,000.00 ",,https://www.atomicheritage.org/profile/albert-einstein,
+5/1/1898  12:00:00 AM,5/1/1898  12:00:00 AM,"Henry ""Harry"" Smyth",Clinton,Clinton,"Born in Clinton, New York","$100,000.00 ",,https://www.atomicheritage.org/profile/henry-dewolf-smyth,
