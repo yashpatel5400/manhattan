@@ -1446,11 +1446,9 @@ var ONE_SECOND = 1000,
             d.value.color,
             "'>", d.key, "</b>",
             "<hr>",
-            "Number of contract: <b>",
+            "Number of events: <b>",
             d.value.now.length,
-            "</b><br/>Money ($): <b>",
-            th(d3.sum(d3.values(d.value.values))),
-            "M.</b><br/>"
+            "</b>"
         ].join(''));
         tooltip.style("display", "block");
         updateLegend();
