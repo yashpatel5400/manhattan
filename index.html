@@ -1688,7 +1688,7 @@ var ONE_SECOND = 1000,
                         "</b><br/> Date: <b>",
                         d.nodeValue["Date"],
                         "</b><br/> At: <b>",
-                        d.nodeValue["From"],
+                        d.nodeValue["From"].split("-")[0],
                         d.nodeValue.project.name,
                         "</b><br/>Source: <b>",
                         d.nodeValue["Source"],
@@ -1705,9 +1705,9 @@ var ONE_SECOND = 1000,
                         "</b><br/> Date: <b>",
                         d.nodeValue["Date"],
                         "</b><br/> From: <b>",
-                        d.nodeValue["From"],
+                        d.nodeValue["From"].split("-")[0],
                         "</b><br/> To: <b>",
-                        d.nodeValue["To"],
+                        d.nodeValue["To"].split("-")[0],
                         d.nodeValue.project.name,
                         "</b><br/>Source: <b>",
                         d.nodeValue["Source"],
@@ -2209,7 +2209,7 @@ var ONE_SECOND = 1000,
 
         zoom.translate(projection.translate())
             .scale(projection.scale())
-            .scaleExtent([h / 6, h])
+            .scaleExtent([h / 6, 10 * h])
         ;
 
         feature.attr("d", path);
